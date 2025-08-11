@@ -1,0 +1,111 @@
+{
+  "LO_91": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "LO_92": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "LO_93": {
+    "models": [
+      "Poly2"
+    ],
+    "is_ensemble": false
+  },
+  "LO_96": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "LO_97": {
+    "models": [
+      "Linear",
+      "Poly2"
+    ],
+    "is_ensemble": true
+  },
+  "LO_98": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "NLO_91": {
+    "models": [
+      "Poly2"
+    ],
+    "is_ensemble": false
+  },
+  "NLO_92": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "NLO_93": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "NLO_96": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "NLO_97": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "NLO_98": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "NNLO_91": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "NNLO_92": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "NNLO_93": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "NNLO_96": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "NNLO_97": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  },
+  "NNLO_98": {
+    "models": [
+      "Linear"
+    ],
+    "is_ensemble": false
+  }
+}

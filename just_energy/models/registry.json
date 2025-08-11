@@ -1,0 +1,138 @@
+{
+  "LO_91": {
+    "models": [
+      "Ridge"
+    ],
+    "is_ensemble": false
+  },
+  "LO_92": {
+    "models": [
+      "Poly3"
+    ],
+    "is_ensemble": false
+  },
+  "LO_93": {
+    "models": [
+      "Ridge"
+    ],
+    "is_ensemble": false
+  },
+  "LO_96": {
+    "models": [
+      "Ridge",
+      "Poly2",
+      "Poly3",
+      "Poly4"
+    ],
+    "is_ensemble": true
+  },
+  "LO_97": {
+    "models": [
+      "Ridge",
+      "Poly2",
+      "Poly3",
+      "Poly4"
+    ],
+    "is_ensemble": true
+  },
+  "LO_98": {
+    "models": [
+      "Ridge",
+      "Poly2",
+      "Poly3",
+      "Poly4"
+    ],
+    "is_ensemble": true
+  },
+  "NLO_91": {
+    "models": [
+      "Ridge"
+    ],
+    "is_ensemble": false
+  },
+  "NLO_92": {
+    "models": [
+      "Poly3",
+      "Poly4"
+    ],
+    "is_ensemble": true
+  },
+  "NLO_93": {
+    "models": [
+      "Ridge",
+      "Poly2",
+      "Poly3"
+    ],
+    "is_ensemble": true
+  },
+  "NLO_96": {
+    "models": [
+      "Poly2"
+    ],
+    "is_ensemble": false
+  },
+  "NLO_97": {
+    "models": [
+      "Linear",
+      "Ridge",
+      "Poly2",
+      "Poly3",
+      "Poly4"
+    ],
+    "is_ensemble": true
+  },
+  "NLO_98": {
+    "models": [
+      "Poly2"
+    ],
+    "is_ensemble": false
+  },
+  "NNLO_91": {
+    "models": [
+      "Ridge",
+      "Poly2",
+      "Poly4"
+    ],
+    "is_ensemble": true
+  },
+  "NNLO_92": {
+    "models": [
+      "Poly3"
+    ],
+    "is_ensemble": false
+  },
+  "NNLO_93": {
+    "models": [
+      "Ridge",
+      "Poly2",
+      "Poly3"
+    ],
+    "is_ensemble": true
+  },
+  "NNLO_96": {
+    "models": [
+      "Linear",
+      "Ridge",
+      "Poly2",
+      "Poly3",
+      "Poly4"
+    ],
+    "is_ensemble": true
+  },
+  "NNLO_97": {
+    "models": [
+      "Linear",
+      "Ridge",
+      "Poly2",
+      "Poly3",
+      "Poly4"
+    ],
+    "is_ensemble": true
+  },
+  "NNLO_98": {
+    "models": [
+      "Poly2"
+    ],
+    "is_ensemble": false
+  }
+}
