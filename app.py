@@ -55,13 +55,11 @@ st.set_page_config(page_title="QCD Tesir Kesiti Tahmin Aracı", layout="centered
 st.title("QCD Tesir Kesiti Tahmin Aracı")
 st.caption("process + channel bazlı, farklı özellik setleriyle eğitilmiş modellerden tesir kesiti tahmin")
 
-HOME = os.path.expanduser("~")
-DEFAULT_BASE = os.path.join(HOME, "Desktop", "qcd_web2")
 paths = {
-    "just_energy": os.path.join(DEFAULT_BASE, "just_energy", "models"),
-    "energy_cval": os.path.join(DEFAULT_BASE, "energy+centralvalue", "models"),
-    "energy_cval_abs": os.path.join(DEFAULT_BASE, "energy+centralvalues+absolute_uncertainty", "models"),
-    "energy_cval_est": os.path.join(DEFAULT_BASE, "energy+centralvalues+estimated_numerical", "models"),
+    "just_energy": os.path.join("just_energy", "models"),
+    "energy_cval": os.path.join("energy+centralvalue", "models"),
+    "energy_cval_abs": os.path.join("energy+centralvalues+absolute_uncertainty", "models"),
+    "energy_cval_est": os.path.join("energy+centralvalues+estimated_numerical", "models"),
 }
 
 col1, col2 = st.columns(2)
